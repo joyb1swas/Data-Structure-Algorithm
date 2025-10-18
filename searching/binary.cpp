@@ -1,5 +1,3 @@
-
-
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -30,4 +28,5 @@ int main()
     cout << "Element not found";
 
     return 0;
+
 }
